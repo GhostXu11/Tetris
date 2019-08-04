@@ -1,2 +1,2 @@
 # Tetris
-A Tetris game using JAva
+A Tetris game using Java
